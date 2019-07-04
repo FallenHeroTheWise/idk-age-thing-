@@ -1,6 +1,5 @@
 import pickle
 import time
-print(time.localtime())
 def ConvertTime(k):
 	try:
 		k=k.replace(',', '').lower()
