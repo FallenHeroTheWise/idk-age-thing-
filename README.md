@@ -1,2 +1,2 @@
 # age thing
-Idk
+Idk import to ur main bot and use ig
